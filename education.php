@@ -165,7 +165,7 @@
         <!-- Application and Resources Buttons -->
         <div class="block">
             <a href="theekeducation/register.php" class="button">Apply Now</a>
-            <a href="resources.php" class="button">Get Resources</a>
+            <a href="theekeducation/resources.php" class="button">Get Resources</a>
             <a href="studentportal.php" class="button">Student Portal</a>
             <a href="tuitionapplication.php" class="button">Apply For Tuition</a>
         </div>
